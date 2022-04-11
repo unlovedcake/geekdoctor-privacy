@@ -30,5 +30,6 @@ to use commercially acceptable means of protecting it.
 
 ###ContactUs
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
+
 Contact Information:
 Email: mon.firstbostonsoftware@gmail.com
