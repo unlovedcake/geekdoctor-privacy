@@ -25,11 +25,14 @@ the Application and the Service. This Agreement may be
 modified by Geek Doctor from time to time.
 
 ###Security
+
 We value your trust in providing us your Personal Information, thus we are striving 
 to use commercially acceptable means of protecting it.
 
 ###ContactUs
+
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
 
 Contact Information:
+
 Email: mon.firstbostonsoftware@gmail.com
